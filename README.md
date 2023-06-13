@@ -1,2 +1,2 @@
-# consumindo-api-de-dados
-Trabalho desenvolvido durante o curso da Alura utilizando a API - Via Cep .
+# js-consumindo-dados-api
+Repositório do treinamento "JavaScript: Consumindo e tratando dados de uma API" da Alura Cursos Online.
